@@ -17,4 +17,5 @@ I do about 50/50 coding/writing markdown, so this config is simple enough for me
 - [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
 - [oil.nvim](https://github.com/stevearc/oil.nvim)
 - [nvim-autopairs.nvim](https://github.com/windwp/nvim-autopairs)
+- [obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)
 

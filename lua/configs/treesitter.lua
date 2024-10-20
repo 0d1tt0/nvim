@@ -10,6 +10,7 @@ return {
         "toml",
         "javascript",
         "markdown",
+        "markdown_inline",
         "json",
     },
 
@@ -20,4 +21,3 @@ return {
 
     indent = { enable = true },
 }
-
